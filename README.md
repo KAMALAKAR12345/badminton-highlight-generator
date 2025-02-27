@@ -1,2 +1,2 @@
 # badminton-highlight-generator
-Automated Badminton Highlight Generator using Spring Boot and Python.
+An AI-powered tool to extract key moments from badminton matches.
